@@ -4,6 +4,7 @@ Webhosting services that allow you to hit localhost are dangerous. This is used 
 Example Output with kotarak:
 
 bash script.sh                                                                                                                              1 ⚙
+
 22: SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 Protocol mismatch.
 
 

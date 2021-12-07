@@ -1,5 +1,5 @@
 # SSRF-Internal-Fuzzer
-Webhosting services that allow you to hit localhost are dangerous. This is used to Fuzz the ports for services. Used in Kotarak writeup. I preferred it over ffuf
+Webhosting services that allow you to hit localhost are dangerous. This is used to Fuzz the ports for services on the localhost int. Used in Kotarak writeup. I preferred it over ffuf
 
 Example Output with kotarak:
 
